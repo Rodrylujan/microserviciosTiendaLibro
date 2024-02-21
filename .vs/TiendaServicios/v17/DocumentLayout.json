@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B926366D-E040-418B-BD21-98C62DE77726}|TiendaSerivicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|y:\\pryectos\\.net core\\microservicetienda\\tiendaservicios\\tiendaserivicios.api.libro.tests\\asyncenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B926366D-E040-418B-BD21-98C62DE77726}|TiendaSerivicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaserivicios.api.libro.tests\\asyncenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B926366D-E040-418B-BD21-98C62DE77726}|TiendaSerivicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|y:\\pryectos\\.net core\\microservicetienda\\tiendaservicios\\tiendaserivicios.api.libro.tests\\asyncenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B926366D-E040-418B-BD21-98C62DE77726}|TiendaSerivicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaserivicios.api.libro.tests\\asyncenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B926366D-E040-418B-BD21-98C62DE77726}|TiendaSerivicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|y:\\pryectos\\.net core\\microservicetienda\\tiendaservicios\\tiendaserivicios.api.libro.tests\\libroservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B926366D-E040-418B-BD21-98C62DE77726}|TiendaSerivicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaserivicios.api.libro.tests\\libroservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F87C7E-EB13-479E-A5E9-7305A068B266}|TiendaServicio.Api.Libro\\TiendaServicios.Api.Libro.csproj|y:\\pryectos\\.net core\\microservicetienda\\tiendaservicios\\tiendaservicio.api.libro\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F87C7E-EB13-479E-A5E9-7305A068B266}|TiendaServicio.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicio.api.libro\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsyncEnumerable.cs",
+              "DocumentMoniker": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerable.cs",
+              "RelativeDocumentMoniker": "TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerable.cs",
+              "ToolTip": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerable.cs",
+              "RelativeToolTip": "TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:03:56.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsyncEnumerator.cs",
+              "DocumentMoniker": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "RelativeDocumentMoniker": "TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "ToolTip": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "RelativeToolTip": "TiendaSerivicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:59:27.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaServicio.Api.Libro\\Aplicacion\\Consulta.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.Libro\\Aplicacion\\Consulta.cs",
+              "ToolTip": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaServicio.Api.Libro\\Aplicacion\\Consulta.cs",
+              "RelativeToolTip": "TiendaServicio.Api.Libro\\Aplicacion\\Consulta.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:27:50.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroServiceTest.cs",
+              "DocumentMoniker": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaSerivicios.Api.Libro.Tests\\LibroServiceTest.cs",
+              "RelativeDocumentMoniker": "TiendaSerivicios.Api.Libro.Tests\\LibroServiceTest.cs",
+              "ToolTip": "Y:\\Pryectos\\.NET CORE\\MicroServiceTienda\\TiendaServicios\\TiendaSerivicios.Api.Libro.Tests\\LibroServiceTest.cs",
+              "RelativeToolTip": "TiendaSerivicios.Api.Libro.Tests\\LibroServiceTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCYAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:26:01.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
